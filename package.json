@@ -1,0 +1,12 @@
+{
+  "name": "workshop-2023-h2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "python-shell": "^5.0.0",
+    "tesseract.js": "^5.0.3"
+  }
+}
